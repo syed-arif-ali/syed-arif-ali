@@ -10,7 +10,7 @@ Most recently, I built degradation forecasting and MILP optimisation systems for
  
 ## 🔬 Currently
  
-- **Collaborative Researcher, American University of Beirut:** developing a Concept Bottleneck Model (Swin-Tiny + Mask R-CNN) for interpretable, CPU-deployable oral cancer diagnosis from histopathology slides.
+- **Collaborative Researcher, American University of Beirut:** developing a Concept Bottleneck Model for interpretable, CPU-deployable oral cancer diagnosis from histopathology slides.
 ## 🚀 Featured Projects
  
 | Project | What it does | Stack |
