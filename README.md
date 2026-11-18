@@ -16,7 +16,7 @@ Most recently, I built degradation forecasting and MILP optimisation systems for
 | Project | What it does | Stack |
 |---|---|---|
 | [**PsyCheck**](https://github.com/syed-arif-ali/F21MP-NHANES-Depression-Project) | MSc dissertation: forecasts depression severity from longitudinal PHQ-9 data using interpretable GAMs and EBMs with SHAP explanations. Leakage-free temporal validation; 82.16% severity accuracy; SUS usability score 85.83. | Python, GAMs, SHAP, Next.js, Supabase |
-| [**AeroGuard**]((https://github.com/syed-arif-ali/AeroGuard-PHM-Analytics)) | UAV prognostics and health management pipeline for failure prediction and anomaly detection on flight telemetry. | Python, Time-Series, Anomaly Detection |
+| [**AeroGuard**](https://github.com/syed-arif-ali/AeroGuard-PHM-Analytics) | UAV prognostics and health management pipeline for failure prediction and anomaly detection on flight telemetry. | Python, Time-Series, Anomaly Detection |
  
 ## 🛠️ Tech Stack
  
